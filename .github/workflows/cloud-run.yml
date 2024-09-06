@@ -8,7 +8,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.CLOUD_RUN_PROJECT_NAME }}
-  REGION: eu-west1
+  REGION: europe-west1
   REPO_NAME: nextjs-cloudrun-app
 
 jobs:
